@@ -190,7 +190,6 @@ header {
 .feature {
     padding-top: 94px;
     padding-bottom: 94px;
-
 }
 .feature-list {
     display: flex;
@@ -384,7 +383,6 @@ footer {
     color: var(--secondary-title-color);
     margin-bottom: 20px;
 }
-
 .address-list-footer>li:not(:last-child) {
    margin-bottom: 8px;
 }
@@ -429,7 +427,6 @@ footer {
     display: flex;
     justify-content: center;
     margin-bottom: 50px;
-
 }
 .menu-button {
     font-family: inherit;
@@ -447,7 +444,6 @@ footer {
 .menu>li:not(:last-child) {
     margin-right: 8px;
 }
-
 .menu-button:focus, 
 .menu-button:hover {
     background-color: var(--accent-color);
